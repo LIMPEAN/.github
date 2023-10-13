@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3147F5&height=150&section=header"/>
-<center>
+<div align="center">
 <img src="../img/logo-limpean.svg">
-</center>
+</div>
 <div>
 <h2>Description:</h2>
  <h3>
